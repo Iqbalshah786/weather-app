@@ -13,4 +13,4 @@
    ```
    npm start
    ```
-4. Access the app by visiting http://localhost:5001
+4. Access the app by visiting http://localhost:3000
